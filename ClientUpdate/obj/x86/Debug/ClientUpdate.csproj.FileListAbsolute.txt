@@ -1,0 +1,15 @@
+D:\vs2010proj\ClientUpdate\ClientUpdate\bin\Debug\ClientUpdate.exe.config
+D:\vs2010proj\ClientUpdate\ClientUpdate\bin\Debug\ClientUpdate.exe
+D:\vs2010proj\ClientUpdate\ClientUpdate\bin\Debug\ClientUpdate.pdb
+D:\vs2010proj\ClientUpdate\ClientUpdate\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\vs2010proj\ClientUpdate\ClientUpdate\bin\Debug\UpdateHelper.dll
+D:\vs2010proj\ClientUpdate\ClientUpdate\bin\Debug\UpdateHelper.pdb
+D:\vs2010proj\ClientUpdate\ClientUpdate\obj\x86\Debug\ClientUpdate.csprojResolveAssemblyReference.cache
+D:\vs2010proj\ClientUpdate\ClientUpdate\obj\x86\Debug\ClientUpdate.FrmCmd.resources
+D:\vs2010proj\ClientUpdate\ClientUpdate\obj\x86\Debug\ClientUpdate.FrmDownload.resources
+D:\vs2010proj\ClientUpdate\ClientUpdate\obj\x86\Debug\ClientUpdate.FrmMain.resources
+D:\vs2010proj\ClientUpdate\ClientUpdate\obj\x86\Debug\ClientUpdate.FrmUnZip.resources
+D:\vs2010proj\ClientUpdate\ClientUpdate\obj\x86\Debug\ClientUpdate.Properties.Resources.resources
+D:\vs2010proj\ClientUpdate\ClientUpdate\obj\x86\Debug\ClientUpdate.csproj.GenerateResource.Cache
+D:\vs2010proj\ClientUpdate\ClientUpdate\obj\x86\Debug\ClientUpdate.exe
+D:\vs2010proj\ClientUpdate\ClientUpdate\obj\x86\Debug\ClientUpdate.pdb

@@ -1,0 +1,12 @@
+D:\vs2010proj\ClientUpdate\ClientUpdate.Test\bin\Debug\ClientUpdate.Test.exe.config
+D:\vs2010proj\ClientUpdate\ClientUpdate.Test\bin\Debug\ClientUpdate.Test.exe
+D:\vs2010proj\ClientUpdate\ClientUpdate.Test\bin\Debug\ClientUpdate.Test.pdb
+D:\vs2010proj\ClientUpdate\ClientUpdate.Test\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\vs2010proj\ClientUpdate\ClientUpdate.Test\bin\Debug\UpdateHelper.dll
+D:\vs2010proj\ClientUpdate\ClientUpdate.Test\bin\Debug\UpdateHelper.pdb
+D:\vs2010proj\ClientUpdate\ClientUpdate.Test\obj\x86\Debug\ClientUpdate.Test.csprojResolveAssemblyReference.cache
+D:\vs2010proj\ClientUpdate\ClientUpdate.Test\obj\x86\Debug\ClientUpdate.Test.Form1.resources
+D:\vs2010proj\ClientUpdate\ClientUpdate.Test\obj\x86\Debug\ClientUpdate.Test.Properties.Resources.resources
+D:\vs2010proj\ClientUpdate\ClientUpdate.Test\obj\x86\Debug\ClientUpdate.Test.csproj.GenerateResource.Cache
+D:\vs2010proj\ClientUpdate\ClientUpdate.Test\obj\x86\Debug\ClientUpdate.Test.exe
+D:\vs2010proj\ClientUpdate\ClientUpdate.Test\obj\x86\Debug\ClientUpdate.Test.pdb

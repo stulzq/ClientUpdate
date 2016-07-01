@@ -1,0 +1,4 @@
+D:\vs2010proj\ClientUpdate\RsaTest\bin\Debug\RsaTest.exe
+D:\vs2010proj\ClientUpdate\RsaTest\bin\Debug\RsaTest.pdb
+D:\vs2010proj\ClientUpdate\RsaTest\obj\x86\Debug\RsaTest.exe
+D:\vs2010proj\ClientUpdate\RsaTest\obj\x86\Debug\RsaTest.pdb

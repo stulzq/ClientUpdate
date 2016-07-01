@@ -1,0 +1,5 @@
+D:\vs2010proj\ClientUpdate\UpdateHelper\bin\Debug\UpdateHelper.dll
+D:\vs2010proj\ClientUpdate\UpdateHelper\bin\Debug\UpdateHelper.pdb
+D:\vs2010proj\ClientUpdate\UpdateHelper\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\vs2010proj\ClientUpdate\UpdateHelper\obj\Debug\UpdateHelper.dll
+D:\vs2010proj\ClientUpdate\UpdateHelper\obj\Debug\UpdateHelper.pdb
