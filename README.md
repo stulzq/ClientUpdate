@@ -2,7 +2,7 @@
 Common c/s Software Update program
 
 Required configuration file format
-
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <ClientUpdate>
   <!--版本号-->
@@ -31,4 +31,4 @@ Required configuration file format
   <!--更新辅助脚本解密公钥-->
   <ScriptKey/>
 </ClientUpdate>
-
+```
